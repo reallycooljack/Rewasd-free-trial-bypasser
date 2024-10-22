@@ -1,1 +1,1 @@
-Just run the batch file its that easy
+Steps are in the batch file
