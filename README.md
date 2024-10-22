@@ -1,1 +1,1 @@
-Just run the batch file
+Just run the batch file its that easy
